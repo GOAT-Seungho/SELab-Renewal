@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import Slide, {
-  SlideTitle,
   SlidePage,
   SlideSection,
   PageTitle,
